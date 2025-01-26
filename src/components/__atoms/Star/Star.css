@@ -1,0 +1,5 @@
+.Star img {
+  width: 55px;
+  height: 55px;
+  flex-shrink: 0;
+}

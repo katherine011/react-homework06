@@ -1,0 +1,22 @@
+.Button {
+  width: 100%;
+  height: 45px;
+  flex-shrink: 0;
+  border-radius: 22.5px;
+  background: var(--Orange, #fc7614);
+  color: var(--Pure-White, #fff);
+  font-feature-settings: "liga" off, "clig" off;
+  font-family: Overpass;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 2px;
+  border: none;
+}
+
+.Button:hover {
+  background-color: white;
+  color: #fc7614;
+  cursor: pointer;
+}
